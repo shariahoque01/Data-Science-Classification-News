@@ -22,4 +22,7 @@ Dataset Characteristics:
 - Train Larger data sets 
 - Use different ML models to explore variety of news
 
-
+### Contributor
+- Sharia Hoque
+- Jennifer Alvarado
+- Tahira Tabassum
