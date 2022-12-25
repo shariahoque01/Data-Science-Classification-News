@@ -1,5 +1,6 @@
 # Classification-News
 ## Slogan: “Fake news is not our friend”
+## Demo: https://www.youtube.com/watch?v=Shr11TPF6xc
 ## Motivation
 One year ago our former president trump was suggesting misinformation at the white house saying that injecting bleach will cure corona. As a result, there was a 64-year-old businessman selling bleach as a coronavirus cure. Unfortunately, events like this happen because of the spread of misinformation. In general, this kind of fake news is spread by social media and articles. Currently, it’s happening more often than we anticipated. 
 
@@ -16,4 +17,9 @@ Dataset Characteristics:
 - Target- variable: It has two value Real and Fake
 - Resource: https://www.kaggle.com/datasets/ruchi798/source-based-news-classification
 
-https://www.youtube.com/watch?v=Shr11TPF6xc
+## Future Goal
+- Audio recognition feature as an user input by using neural networks method
+- Train Larger data sets 
+- Use different ML models to explore variety of news
+
+
