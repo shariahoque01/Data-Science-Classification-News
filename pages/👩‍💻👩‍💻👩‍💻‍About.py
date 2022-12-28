@@ -28,7 +28,7 @@ def add_bg_from_url():
    
     col1, col2, col3  = st.columns([1,1,1])
     with col1:
-        st.image('images/tahira1.jpg')
+        st.image('../images/tahira1.jpg')
         important_links = '''
         [github](https://github.com/tahiratabassum19),
         [LinkedIn](www.linkedin.com/in/tahira-tabassum),
@@ -49,7 +49,7 @@ def add_bg_from_url():
         st.markdown('<p class="Tah">I am Tahira Tabassum majoring in Computer Science at Queens College.I will be graduating this semester. I am enthusiastic about data science, software development, Problem Solving, and Front End Design. Fun Fact: I am scared of dogs</p>', unsafe_allow_html=True)
         st.markdown(important_links)
     with col2:
-        st.image('images/Jennifer1.jpg')
+        st.image('../images/Jennifer1.jpg')
         important_links1 = '''
         [github](https://github.com/jenalvarado),
         [LinkedIn](https://www.linkedin.com/in/jenyalvarado/),
@@ -72,7 +72,7 @@ def add_bg_from_url():
         st.markdown(important_links1)
 
     with col3:
-        st.image('images/Sharia.jpg')
+        st.image('../images/Sharia.jpg')
         important_links2= '''
         [github]( https://github.com/shariahoque01),
         [LinkedIn](https://www.linkedin.com/in/sharia-hoque/),
