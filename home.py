@@ -7,6 +7,7 @@ from nltk.corpus import stopwords
 from nltk import word_tokenize
 import nltk
 from nltk.stem.porter import PorterStemmer
+nltk.download('punkt')
 ps = PorterStemmer()
 
 def root_words(string):
