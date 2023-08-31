@@ -1,4 +1,4 @@
-# Classification-News
+# Data Science: Classification-News
 ## Slogan: “Fake news is not our friend”
 ## Demo: https://www.youtube.com/watch?v=Shr11TPF6xc
 ## Motivation
